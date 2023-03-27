@@ -1,6 +1,6 @@
 # Subthalamic-Tract-Atlas
 
-The repository includes the probabilistic atlas of the human subthalamic area
+The repository includes the probabilistic atlas of the human subthalamic area. Each subfolder (lh and rh) contains the probabilistic map of each tract of interest as derived by the best working tractography approach. 
 
 *** Please cite the relevant manuscripts if you use this atlas: ***
 Basile GA, Quartu M, Bertino S, Serra MP, Trucas M, Boi M, Demontis R, Bramanti A, Anastasi GP, Milardi D, Ciurleo R, Cacciola A."In Vivo Probabilistic Atlas of White Matter Tracts of the Human Subthalamic Area Combining Track Density Imaging and Optimized Diffusion Tractography". Brain Structure and Function 2022, under review. 
